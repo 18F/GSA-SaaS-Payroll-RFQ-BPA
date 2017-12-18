@@ -69,7 +69,17 @@ part of the draft RFQ feedback:
 
 ## Contents
 
-Link will be included for the RFQ and the associated documents.
+[Draft RFQ](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/DRAFT-RFQ.md)
+
+### Attachments
+[Draft attachment A: Business Capabilities and Data Standards](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20A%20-%20Business%20Capabilities%20and%20Data%20Standards.xlsx?raw=true)
+[Draft attachment B: Technical Capabilities](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20B%20-%20Technical%20Capabilities.xlsx?raw=true)
+[Draft attachment C: FedRAMP Self-Assessment High Readiness Attachment Report Template](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20C%20-%20FedRAMP-Self-Assessment-High-RAR-Template-v1.0-2.docx?raw=true)
+[Draft attachment D: RACI Matrix](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20D%20-%20RACI%20Chart.xlsx?raw=true)
+[Draft attachment E: Corporate Experience Statement and Past Performance Questionnaire](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20E%20-%20Corporate%20Experience%20Statement%20and%20Past%20Performance%20Questionnaire.docx?raw=true)
+[Draft attachment F: Voluntary Product Accessibility Template](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20F%20-%20VPAT%20Assessment.doc?raw=true)
+[Draft attachment G: Small Business Subcontracting Plan](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20G%20-%20Small%20Business%20Subcontracting%20Plan.docx?raw=true)
+[Draft attachment H: Blanket Purchase Agreement Pricing Schedule](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20H%20-%20BPA%20Pricing%20Schedule.xlsx?raw=true)
 
 Please remember: The documents in e-Buy should always be considered the
 documents of record.
