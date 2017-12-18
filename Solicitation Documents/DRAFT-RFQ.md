@@ -458,16 +458,16 @@ A.  Solution Conformance:
 
 4.  Solution provides flexible interface options for government use.
 
-> B. Corporate Experience: The Quoter shall provide Corporate Experience
-> for three projects performed within the last five years by the
-> business unit that will perform this effort. Each of the Corporate
-> Experience references shall be the offeror’s direct experience as the
-> prime contractor. These three projects must be similar in size, scope,
-> and complexity to the requirements identified within this RFQ.The
-> Corporate Experience shall describe the core capabilities and enable
-> the CO to assess the breadth and depth of each Quoter’s relevant
-> experience in performing work of the type, magnitude, and complexity
-> of the services being procured.
+B. Corporate Experience: The Quoter shall provide Corporate Experience
+for three projects performed within the last five years by the
+business unit that will perform this effort. Each of the Corporate
+Experience references shall be the offeror’s direct experience as the
+prime contractor. These three projects must be similar in size, scope,
+and complexity to the requirements identified within this RFQ.The
+Corporate Experience shall describe the core capabilities and enable
+the CO to assess the breadth and depth of each Quoter’s relevant
+experience in performing work of the type, magnitude, and complexity
+of the services being procured.
 
 #### Phase 2 – Outstanding/Good/Satisfactory/Unacceptable
 
@@ -508,14 +508,13 @@ approaches as proposed.
 
 #### Price:
 
-•A price evaluation will only be done for offerors receiving an overall
+• A price evaluation will only be done for offerors receiving an overall
 rating of ACCEPTABLE in Phase 1 and SATISFACTORY or higher in Phase 2
 and 3. All evaluation factors other than price, when combined, are
-significantly more important than price*.* Award may be made to the
+significantly more important than price. Award may be made to the
 offeror whose quote is determined be the best value for the Government.
 
 ### SUBMISSION REQUIREMENTS
------------------------
 
 Each phase shall be submitted based on Table 2 below. The page
 limitations shall be followed for each volume. Any additional material
@@ -646,22 +645,13 @@ under the Evaluation Section within this RFQ. This section shall not
 exceed three (3) pages. The Quoter must include an explanation or
 description of how its offering complies with the following:
 
-a.  A product solution through the standard SaaS subscription and
-    > delivery model;
+a.  A product solution through the standard SaaS subscription and delivery model;
 
-b.  A software publisher who creates and owns the source code and
-    > intellectual property that constitutes the solution, or an entity
-    > that has a contractual relationship/partnership with the software
-    > publisher such that the software publisher will work with the
-    > Quoter to meet the terms and conditions of the BPA and any
-    > resulting task orders awarded;
+b.  A software publisher who creates and owns the source code and intellectual property that constitutes the solution, or an entity that has a contractual relationship/partnership with the software publisher such that the software publisher will work with the Quoter to meet the terms and conditions of the BPA and any resulting task orders awarded;
 
-c.  A solution supporting multiple tenants within a single code baseline
-    > and scales on-demand to accommodate between 30,000 and 2.5+
-    > million users; and,
+c.  A solution supporting multiple tenants within a single code baseline and scales on-demand to accommodate between 30,000 and 2.5+ million users; and,
 
-d.  A solution that has mobile-friendly interface options and/or follows
-    > a responsive design methodology.
+d.  A solution that has mobile-friendly interface options and/or follows a responsive design methodology.
 
 #### Phase 1, Part B - Corporate Experience:
 
@@ -745,11 +735,9 @@ The Quoter shall describe their approach to Software Maintenance, such
 as schedule for major updates/upgrades, change requests and defect
 resolution as identified below:
 
--   Ability to process rolling government requested changes into product
-    > roadmap;
+-   Ability to process rolling government requested changes into product roadmap;
 
--   How often does the software provider invest in their product (how
-    > often do they have a major version update);
+-   How often does the software provider invest in their product (how often do they have a major version update);
 
 -   What is the process for identifying and fixing bugs; and
 
@@ -771,14 +759,11 @@ identified below:
 
 -   Transition and Phase Out Plan/Approach;
 
--   Flexibility in the number and level of partnerships for migration
-    > support;
+-   Flexibility in the number and level of partnerships for migration support;
 
--   Migration support alternatives (Explain approach to managing
-    > multiple concurrent migration (orders); and
+-   Migration support alternatives (Explain approach to managing multiple concurrent migration (orders); and
 
--   Accessibility Gap Mitigation Plan to address features and
-    > functionality of the solution that are not accessible.
+-   Accessibility Gap Mitigation Plan to address features and functionality of the solution that are not accessible.
 
 The Quoter shall describe its strategy for the configuration management
 and support, which would include Core (services for comprehensive set-up
@@ -864,35 +849,25 @@ shall demonstrate their business capabilities through “out-of-the-box”
 configurations and how they meet the Government’s needs. The
 demonstration case scenarios may consist of the following elements:
 
--   The flexibility of the product to meet Federal Integrated Business
-    > Framework (FIBF) capabilities through configuration;
+-   The flexibility of the product to meet Federal Integrated Business Framework (FIBF) capabilities through configuration;
 
--   The flexibility of the product to be configured to accommodate
-    > changes in legislation, policy, and procedures;
+-   The flexibility of the product to be configured to accommodate changes in legislation, policy, and procedures;
 
 -   The extent the solution can be configured by the SSPs;
 
--   How the solution adapts to changing requirements and looks at ways
-    > to continuously provide better customer service and quality;
+-   How the solution adapts to changing requirements and looks at ways to continuously provide better customer service and quality;
 
--   Payroll: Accuracy of the gross, net, allowances, differentials,
-    > premiums, pay caps, and deductions (order of precedence) as
-    > demonstrated by a leave and earnings statement for payroll;
+-   Payroll: Accuracy of the gross, net, allowances, differentials, premiums, pay caps, and deductions (order of precedence) as demonstrated by a leave and earnings statement for payroll;
 
--   Payroll: Process for certification of payroll prior to submission to
-    > the Department of the Treasury (Treasury) for funds disbursement;
+-   Payroll: Process for certification of payroll prior to submission to the Department of the Treasury (Treasury) for funds disbursement;
 
--   Payroll: Accuracy of the computation of leave balances and
-    > application of business rules to include FMLA/FLSA, etc.
+-   Payroll: Accuracy of the computation of leave balances and application of business rules to include FMLA/FLSA, etc.
 
--   WSLM: Accuracy of WSLM solution to appropriately categorize and
-    > capture hours worked, leave taken, and leave accrued; and
+-   WSLM: Accuracy of WSLM solution to appropriately categorize and capture hours worked, leave taken, and leave accrued; and
 
--   WSLM: Process for certification of WSLM prior to submission to
-    > Payroll solution for computation of pay; and
+-   WSLM: Process for certification of WSLM prior to submission to Payroll solution for computation of pay; and
 
--   The demonstration shall describe process(es) for accessing the
-    > Payroll and WSLM data required to compute multi-year retro pay.
+-   The demonstration shall describe process(es) for accessing the Payroll and WSLM data required to compute multi-year retro pay.
 
 #### Phase 4 - Pricing
 
@@ -900,9 +875,9 @@ All prices proposed in response to this RFQ shall be in accordance with
 the instructions in this section. Quoters shall complete in its entirety
 all of the pricing tables in **Attachment H - Pricing **
 
-**Evaluation Criteria**
+##### Evaluation Criteria
 
-**Basis for Award**
+###### Basis for Award
 
 The basis for award for this BPA will be a best value determination
 considering both technical and price. When combined, all technical
@@ -970,7 +945,7 @@ If any of the evaluation factors receives a rating of less than
 acceptable and satisfactory, the Quote shall not receive any further
 consideration and will not be considered for award.
 
-#### Phase 1: Solution Conformance
+##### Phase 1: Solution Conformance
 
 The Government will evaluate all written quotes submitted. Written
 quotes submitted in Phase 1 factors are considered
@@ -978,7 +953,7 @@ acceptable/unacceptable. All Quoters whose quotes are determined to be
 acceptable (pass) in Phase 1 for Solution Conformance and Corporate
 Experience will be evaluated in Phase 2.
 
-#### Phase 2: Outstanding/Good/Satisfactory/Unacceptable
+##### Phase 2: Outstanding/Good/Satisfactory/Unacceptable
 
 -   Phase 2, Part A –Technical Approach (includes Attachment A -
     Business Capabilities and Data Standards, Attachment B - Technical
@@ -1112,26 +1087,19 @@ will evaluate based on the Quoter’s description and/or demonstration of
 the business capabilities and demonstration case scenarios. The
 Government will create and evaluate scenarios in the following elements:
 
--   Accuracy of the gross, net, deductions (order of precedence) as
-    > demonstrated by a leave and earnings statement;
+-   Accuracy of the gross, net, deductions (order of precedence) as demonstrated by a leave and earnings statement;
 
--   The flexibility of the product to meet FIBF capabilities through
-    > configuration;
+-   The flexibility of the product to meet FIBF capabilities through configuration;
 
--   The flexibility of the product to be configured to accommodate
-    > changes in legislation, policy, and procedures;
+-   The flexibility of the product to be configured to accommodate changes in legislation, policy, and procedures;
 
 -   The extent the solution can be configured by the SSPs;
 
--   Process for certification of payroll prior to submission to Treasury
-    > for funds disbursement;
+-   Process for certification of payroll prior to submission to Treasury for funds disbursement;
 
--   Optional services that exist to support customer specific
-    > configuration items (ease with which the Government can request
-    > additional configuration items that might be identified).
+-   Optional services that exist to support customer specific configuration items (ease with which the Government can request additional configuration items that might be identified).
 
--   How the solution adapts to changing requirements and looks at ways
-    > to continuously provide better customer service and quality; and,
+-   How the solution adapts to changing requirements and looks at ways to continuously provide better customer service and quality; and,
 
 -   The accuracy and timeliness of real-time or batch transactions.
 
