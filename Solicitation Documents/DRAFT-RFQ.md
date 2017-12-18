@@ -111,21 +111,11 @@ solutions.
 
 ### Table 1 - Technology Summary
 
-  ---------------------- ---------------------------------------------------------------------------------------- ----------------------------------------------------------- -------------------- --------------------
-                         **GSA -PSB**                                                                             **Interior, IBC**                                           **USDA, NFC**        **DoD, DFAS**
-
-  **Database(s)**        PAR - Oracle 12.1.0.2                                                                    ADABAS                                                      IDMS                 IDMS
-
-  **Application Type**   Oracle Fusion Middleware 12c using Oracle Stored Procedures and PLSQL                    ​Processing - AG Natural Application Development Platform   Processing - COBOL   Processing - COBOL
-
-                                                                                                                  Inquiry - AG                                                Inquiry - DC COBOL   Inquiry - ADS-A
-
-                                                                                                                  Natural Application Development Platform                                         
-
-  **File System Type**   IBM e server p5 520 midrange server, running AIX operating system with Oracle 12.1.0.2   ​IBM zSeries Enterprise Server                              IBM zOS              IBM zOS
-
-                                                                                                                  VSAM, Flat Files                                            VSAM, Flat Files     Flat Files
-  ---------------------- ---------------------------------------------------------------------------------------- ----------------------------------------------------------- -------------------- --------------------
+|                  | GSA -PSB                                                                               | Interior, IBC                                                                                                  | USDA, NFC                             | DoD, DFAS                          |
+|------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------|------------------------------------|
+| Database(s)      | PAR - Oracle 12.1.0.2                                                                  | ADABAS                                                                                                         | IDMS                                  | IDMS                               |
+| Application Type | Oracle Fusion Middleware 12c using Oracle Stored Procedures and PLSQL                  | Processing - AG Natural Application Development Platform,Inquiry - AG,Natural Application Development Platform | Processing - COBOL,Inquiry - DC COBOL | Processing - COBOL,Inquiry - ADS-A |
+| File System Type | IBM e server p5 520 midrange server, running AIX operating system with Oracle 12.1.0.2 | IBM zSeries Enterprise Server VSAM, Flat Files                                                                 | IBM zOS VSAM, Flat Files              | IBM zOS Flat Files                 |
 
 ## Performance Objectives
 
