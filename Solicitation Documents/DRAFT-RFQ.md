@@ -791,13 +791,12 @@ forth within this RFQ.
 
 Each demonstration and oral presentation will consist of the following
 timeline:
-
-  ------------------------ -------------------------------------------------------------
-  > **SaaS Solution**      > **Solution Capability Demonstration & Oral Presentation**
-  > WSLM                   > 2 hours plus 20 minutes for Questions
-  > Payroll                > 2 hours plus 20 minutes for Questions
-  > Both: WSLM & Payroll   > 4 hours plus 40 minutes for Questions
-  ------------------------ -------------------------------------------------------------
+|                      |                                                       | 
+|----------------------|-------------------------------------------------------| 
+| SaaS Solution        | Solution Capability Demonstration & Oral Presentation | 
+| WSLM                 | 2 hours plus 20 minutes for Questions                 | 
+| Payroll              | 2 hours plus 20 minutes for Questions                 | 
+| Both: WSLM & Payroll | 4 hours plus 40 minutes for Questions                 | 
 
 **NOTE** – If Quoter is demonstrating both WSLM and Payroll a 10 minute
 break will be taken between demonstrations.
