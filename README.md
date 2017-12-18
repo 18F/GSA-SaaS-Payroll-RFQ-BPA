@@ -1,6 +1,6 @@
-*GITHUB Instructions*
+# New Pay SaaS Solution Procurement
 
-**Instructions**
+## Instructions
 
 The documents in this repository are posted to GSA eBuy under RFQXXXXX.
 The documents in e-Buy should always be considered the documents of
@@ -14,7 +14,7 @@ manners.
 **Questions and Comments to the draft Request for Quote are due at the
 date posted in the GSA eBuy**
 
-**Background**
+## Background
 
 Unified Shared Services Management (USSM) within the GSA Office of
 Governmentwide Policy (OGP), in partnership with the Information
@@ -27,7 +27,7 @@ fiscal) on core mission priorities, which will reduce costs,
 significantly improve security posture, increase user experience and
 service, and better manage budgets.
 
-**What we're hoping to end up with**
+## What we're hoping to end up with
 
 USSM is requesting industry feedback on the draft RFQ. Some areas for
 focus are:
@@ -44,7 +44,7 @@ focus are:
 -   What activities should the Federal Government undertake to manage
     costs - both for implementation and ongoing subscription fees?
 
-**How to respond**
+## How to respond
 
 Comments and Responses related to the draft RFQ can be directed thru
 *GitHub issues* or GSA eBuy, Federal Business Opportunities
@@ -54,7 +54,7 @@ GSA Interact, go to the Interact web page,
 [*https://interact.gsa.gov/*](https://interact.gsa.gov/) and join the
 “Newpay Initiative” group.
 
-**Response Submission**
+## Response Submission
 
 Responders to this draft RFQ must provide the following information as
 part of the draft RFQ feedback:
@@ -68,9 +68,26 @@ part of the draft RFQ feedback:
 
 -   IT Schedule 70 contract number.
 
-**Contents**
+## Contents
 
-Link will be included for the RFQ and the associated documents.
+[Draft RFQ](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/DRAFT-RFQ.md)
+
+### Attachments
+[Draft attachment A: Business Capabilities and Data Standards](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20A%20-%20Business%20Capabilities%20and%20Data%20Standards.xlsx?raw=true)
+
+[Draft attachment B: Technical Capabilities](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20B%20-%20Technical%20Capabilities.xlsx?raw=true)
+
+[Draft attachment C: FedRAMP Self-Assessment High Readiness Attachment Report Template](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20C%20-%20FedRAMP-Self-Assessment-High-RAR-Template-v1.0-2.docx?raw=true)
+
+[Draft attachment D: RACI Matrix](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20D%20-%20RACI%20Chart.xlsx?raw=true)
+
+[Draft attachment E: Corporate Experience Statement and Past Performance Questionnaire](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20E%20-%20Corporate%20Experience%20Statement%20and%20Past%20Performance%20Questionnaire.docx?raw=true)
+
+[Draft attachment F: Voluntary Product Accessibility Template](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20F%20-%20VPAT%20Assessment.doc?raw=true)
+
+[Draft attachment G: Small Business Subcontracting Plan](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20G%20-%20Small%20Business%20Subcontracting%20Plan.docx?raw=true)
+
+[Draft attachment H: Blanket Purchase Agreement Pricing Schedule](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20H%20-%20BPA%20Pricing%20Schedule.xlsx?raw=true)
 
 Please remember: The documents in e-Buy should always be considered the
 documents of record.
