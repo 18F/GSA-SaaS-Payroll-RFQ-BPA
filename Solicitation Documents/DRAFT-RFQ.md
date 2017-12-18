@@ -138,7 +138,7 @@ The Government seeks Payroll and/or WSLM SaaS solutions that:
 1.  Provide the baseline business capabilities and accommodate the data
     standards identified in the Federal Integrated Business
     Framework (FIBF) for Payroll and/or WSLM as identified in
-    **Attachment A - Business Capabilities and Data Standards.**
+    **[Attachment A - Business Capabilities and Data Standards](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20A%20-%20Business%20Capabilities%20and%20Data%20Standards.xlsx?raw=true).**
     (Additional information can be found in the HRLOB Business Reference
     Model)[^1];
 
@@ -185,11 +185,11 @@ The Government seeks Payroll and/or WSLM SaaS solutions that:
 
 9.  Comply with technology, security, data and interoperability,
     identity management, accessibility, service desk and support
-    constraints and capabilities described in **Attachment B - Technical
-    Capabilities**;
+    constraints and capabilities described in **[Attachment B - Technical
+    Capabilities](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20B%20-%20Technical%20Capabilities.xlsx?raw=true)**;
 
 10. Comply with the roles identified in the draft RACI chart in
-    **Attachment D - RACI Chart** when delivering the solution; and
+    **[Attachment D - RACI Chart](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20D%20-%20RACI%20Chart.xlsx?raw=true)** when delivering the solution; and
 
 11. Provide automated service management and monitoring tools for the
     Federal Government SSP’s to maintain operating awareness.
@@ -264,8 +264,8 @@ as follows:
 
 2.  **Help desk support**: Help desk support for technical and
     configuration issues within the SaaS solutions as defined in the
-    Service Desk and Support tab of **Attachment B - Technical
-    Capabilities**.
+    Service Desk and Support tab of **[Attachment B - Technical
+    Capabilities](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20B%20-%20Technical%20Capabilities.xlsx?raw=true)**.
 
 3.  **User Support and Management**: The education, training,
     communication, tools, instructions, and active guidance provided to
@@ -277,15 +277,15 @@ as follows:
 
 ### Security
 
-1.  As indicated in the Security tab in **Attachment B - Technical
-    Capabilities**, the contractor shall obtain a Federal Risk and
+1.  As indicated in the Security tab in **[Attachment B - Technical
+    Capabilities](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20B%20-%20Technical%20Capabilities.xlsx?raw=true)**, the contractor shall obtain a Federal Risk and
     Authorization Management Program (FedRAMP) authorization for its
     solution within one year of BPA award date and it shall be
     maintained throughout the duration of the BPA.
 
 2.  The Quoter shall comply with the additional security capabilities
-    listed in the Security tab in **Attachment B - Technical
-    Capabilities**.
+    listed in the Security tab in **[Attachment B - Technical
+    Capabilities](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20B%20-%20Technical%20Capabilities.xlsx?raw=true)**.
 
 3.  The Task Order Authorizing Official for a particular system or
     application has the authority to deny, terminate, or alter access to
@@ -463,18 +463,18 @@ of the services being procured.
 
 A.  Technical Approach
 
-    a.  Business Capabilities and Data Standards - Attachment A;
+    a.  [Business Capabilities and Data Standards - Attachment A](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20A%20-%20Business%20Capabilities%20and%20Data%20Standards.xlsx?raw=true);
 
-    b.  Technical Capabilities - Attachment B;
+    b.  [Technical Capabilities - Attachment B](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20B%20-%20Technical%20Capabilities.xlsx?raw=true);
 
-    c.  FedRAMP - Self-Assessment Moderate/High - Attachment C;
+    c.  [FedRAMP - Self-Assessment Moderate/High - Attachment C](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20C%20-%20FedRAMP-Self-Assessment-High-RAR-Template-v1.0-2.docx?raw=true);
 
-    d.  Voluntary Product Accessibility Template (VPAT) Self Assessment
-        (**Section 508 Compliance**) - Attachment F; and
+    d.  [Voluntary Product Accessibility Template (VPAT) Self Assessment
+        (**Section 508 Compliance**) - Attachment F](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20F%20-%20VPAT%20Assessment.doc?raw=true); and
 
     e.  Security (Written Response)
 
-B.  Program Management Approach (includes Attachment D - RACI Chart)
+B.  [Program Management Approach (includes Attachment D - RACI Chart)](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20D%20-%20RACI%20Chart.xlsx?raw=true)
 
 C.  Software Maintenance (Baseline updates, Change Request,
     Defect resolution)
@@ -482,11 +482,11 @@ C.  Software Maintenance (Baseline updates, Change Request,
 D.  Implementation Support (Configuration, Data integration,
     Migration, Training)
 
-E.  Past Performance (Attachment E - Corporate Experience and Past
-    Performance Reference Sheet)
+E.  Past Performance ([Attachment E - Corporate Experience and Past
+    Performance Reference Sheet](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20E%20-%20Corporate%20Experience%20Statement%20and%20Past%20Performance%20Questionnaire.docx?raw=true))
 
-F.  Small Business Subcontracting Plan (Attachment G - Small Business
-    Subcontracting Plan)
+F.  Small Business Subcontracting Plan ([Attachment G - Small Business
+    Subcontracting Plan](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20G%20-%20Small%20Business%20Subcontracting%20Plan.docx?raw=true))
 
 #### Phase 3 – Outstanding/Good/Satisfactory/Unacceptable**
 
@@ -513,38 +513,38 @@ evaluated. Any charts/graphics/tables embedded in the quote will count
 toward the page limitations. The quotes shall be submitted as follows:
 
 #### Table 2
-|                |                                                   |                                                                                                                                     |                                 |                 | 
-|----------------|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----------------| 
-| Volume         | Phase                                             | Part/Tab Title                                                                                                                      | Evaluation Rating               | Page Limit      | 
-| Volume 1A      |                                                   | Cover Letter                                                                                                                        | Not Rated                       | 1 page          | 
-| Volume 1A      | Phase 1                                           | Part A - Solution Conformance (A1 - A4 above)                                                                                       | Acceptable/ Unacceptable        | Maximum 3 pages | 
-| Volume 1A      | Phase 1                                           | "Part B - Corporate Experience Attachment E: Past Performance Questionnaire"                                                        | "Acceptable/                    |                 | 
-|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
-| Volume 1B      | Phase 2                                           | Part A – Attachment A: Business Capabilities and Data Standards                                                                     | "Outstanding/Good/Satisfactory/ |                 | 
-|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
-| Volume 1B      | Phase 2                                           | Part A – Attachment B: Technical Capabilities                                                                                       | "Outstanding/Good/Satisfactory/ |                 | 
-|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
-| Volume 1B      | Phase 2                                           | Part A – Attachment C: FedRAMP Self-Assessment (RAR)                                                                                | "Outstanding/Good/Satisfactory/ |                 | 
-|  Unacceptable" | RAR - No Limit                                    |                                                                                                                                     |                                 |                 | 
-| Volume 1B      | Phase 2                                           | Part A – Security                                                                                                                   | "Outstanding/Good/Satisfactory/ |                 | 
-|  Unacceptable" | Maximum 2 pages                                   |                                                                                                                                     |                                 |                 | 
-| Volume 1B      | Phase 2                                           | Part A – Attachment F: VPAT Self Assessment                                                                                         | "Outstanding/Good/Satisfactory/ |                 | 
-|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
-| Volume 1B      | Phase 2                                           | Part B – Program Management Approach                                                                                                | "Outstanding/Good/Satisfactory/ |                 | 
-|  Unacceptable" | Maximum 6 pages                                   |                                                                                                                                     |                                 |                 | 
-| Volume 1B      | Phase 2                                           | "Part C – Software Maintenance – Continuous Improvement, Change Requests, and Defect Resolution"                                    | "Outstanding/Good/Satisfactory/ |                 | 
-|  Unacceptable" | Maximum 3 page                                    |                                                                                                                                     |                                 |                 | 
-| Volume 1B      | Phase 2                                           | "Part D – Implementation – Implementation Support, Configuration Support, and Data Integration and Migration, and Training Support" | "Outstanding/Good/Satisfactory/ |                 | 
-|  Unacceptable" | Maximum 13 page                                   |                                                                                                                                     |                                 |                 | 
-| Volume 1B      | Phase 2                                           | Part D – Implementation – Attachment D - RACI Matrix                                                                                | "Outstanding/Good/Satisfactory/ |                 | 
-|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
-| Volume 1B      | Phase 2                                           | Part E – Attachment E – Past Performance Questionnaire                                                                              | "Outstanding/Good/Satisfactory/ |                 | 
-|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
-| Volume 1B      | Phase 2                                           | "Part F - Attachment G - Small Business Subcontracting Plan (if applicable)"                                                        | "Outstanding/Good/Satisfactory  |                 | 
-|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
-| None           | Phase 3                                           | Solution Capability Demonstration and Oral Presentation                                                                             | "Outstanding/Good/Satisfactory  |                 | 
-|  Unacceptable" | Maximum 2 and 1/2 hours per WSLM/Payroll solution |                                                                                                                                     |                                 |                 | 
-| Volume 3       | Phase 3                                           | "Part 9 – Pricing Attachment H"                                                                                                     | Not Rated                       | No Limit        | 
+|                |                                                   |                                                                                                                                     |                                 |                 |
+|----------------|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----------------|
+| Volume         | Phase                                             | Part/Tab Title                                                                                                                      | Evaluation Rating               | Page Limit      |
+| Volume 1A      |                                                   | Cover Letter                                                                                                                        | Not Rated                       | 1 page          |
+| Volume 1A      | Phase 1                                           | Part A - Solution Conformance (A1 - A4 above)                                                                                       | Acceptable/ Unacceptable        | Maximum 3 pages |
+| Volume 1A      | Phase 1                                           | "Part B - Corporate Experience Attachment E: Past Performance Questionnaire"                                                        | "Acceptable/                    |                 |
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 |
+| Volume 1B      | Phase 2                                           | Part A – Attachment A: Business Capabilities and Data Standards                                                                     | "Outstanding/Good/Satisfactory/ |                 |
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 |
+| Volume 1B      | Phase 2                                           | Part A – Attachment B: Technical Capabilities                                                                                       | "Outstanding/Good/Satisfactory/ |                 |
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 |
+| Volume 1B      | Phase 2                                           | Part A – Attachment C: FedRAMP Self-Assessment (RAR)                                                                                | "Outstanding/Good/Satisfactory/ |                 |
+|  Unacceptable" | RAR - No Limit                                    |                                                                                                                                     |                                 |                 |
+| Volume 1B      | Phase 2                                           | Part A – Security                                                                                                                   | "Outstanding/Good/Satisfactory/ |                 |
+|  Unacceptable" | Maximum 2 pages                                   |                                                                                                                                     |                                 |                 |
+| Volume 1B      | Phase 2                                           | Part A – Attachment F: VPAT Self Assessment                                                                                         | "Outstanding/Good/Satisfactory/ |                 |
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 |
+| Volume 1B      | Phase 2                                           | Part B – Program Management Approach                                                                                                | "Outstanding/Good/Satisfactory/ |                 |
+|  Unacceptable" | Maximum 6 pages                                   |                                                                                                                                     |                                 |                 |
+| Volume 1B      | Phase 2                                           | "Part C – Software Maintenance – Continuous Improvement, Change Requests, and Defect Resolution"                                    | "Outstanding/Good/Satisfactory/ |                 |
+|  Unacceptable" | Maximum 3 page                                    |                                                                                                                                     |                                 |                 |
+| Volume 1B      | Phase 2                                           | "Part D – Implementation – Implementation Support, Configuration Support, and Data Integration and Migration, and Training Support" | "Outstanding/Good/Satisfactory/ |                 |
+|  Unacceptable" | Maximum 13 page                                   |                                                                                                                                     |                                 |                 |
+| Volume 1B      | Phase 2                                           | Part D – Implementation – Attachment D - RACI Matrix                                                                                | "Outstanding/Good/Satisfactory/ |                 |
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 |
+| Volume 1B      | Phase 2                                           | Part E – Attachment E – Past Performance Questionnaire                                                                              | "Outstanding/Good/Satisfactory/ |                 |
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 |
+| Volume 1B      | Phase 2                                           | "Part F - Attachment G - Small Business Subcontracting Plan (if applicable)"                                                        | "Outstanding/Good/Satisfactory  |                 |
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 |
+| None           | Phase 3                                           | Solution Capability Demonstration and Oral Presentation                                                                             | "Outstanding/Good/Satisfactory  |                 |
+|  Unacceptable" | Maximum 2 and 1/2 hours per WSLM/Payroll solution |                                                                                                                                     |                                 |                 |
+| Volume 3       | Phase 3                                           | "Part 9 – Pricing Attachment H"                                                                                                     | Not Rated                       | No Limit        |
 
 
 ### Submission Process
@@ -560,10 +560,10 @@ Quoter shall submit a written proposal describing their Solution
 Conformance and Corporate Experience in Phase 1. The evaluation of the
 written proposal submission from Phase 1 will determine Quoters’
 participation in Phase 2. Quoters participating in Phase 2 shall submit
-completed **Attachment A - Business Capabilities and Data Standards,
-Attachment B - Technical Capabilities**, **Attachment C - FedRAMP
-Self-Assessment (RAR)**, **Attachment F - VPAT Self Assessment,** and
-**Attachment G - Small Business Subcontracting Plan** (only large
+completed **[Attachment A - Business Capabilities and Data Standards](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20A%20-%20Business%20Capabilities%20and%20Data%20Standards.xlsx?raw=true),
+[Attachment B - Technical Capabilities](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20B%20-%20Technical%20Capabilities.xlsx?raw=true)**, **[Attachment C - FedRAMP
+Self-Assessment (RAR)(https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20C%20-%20FedRAMP-Self-Assessment-High-RAR-Template-v1.0-2.docx?raw=true)]**, **[Attachment F - VPAT Self Assessment](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20F%20-%20VPAT%20Assessment.doc?raw=true),** and
+**[Attachment G - Small Business Subcontracting Plan](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20G%20-%20Small%20Business%20Subcontracting%20Plan.docx?raw=true)** (only large
 businesses shall provide a Subcontracting plan) in their entirety, as
 well as all other requirements under Phase 2. Only those quotes
 receiving ratings of “outstanding”, “good”, and “satisfactory” in Phase
@@ -620,8 +620,8 @@ perform this effort. Each of the Corporate Experience references shall
 be the offeror’s direct experience as the prime contractor. These three
 projects must be similar in size, scope, and complexity to the
 requirements identified within this RFQ. The Corporate Experience
-information must be submitted in the format provided in Attachment E -
-Corporate Experience Statement/Past Performance Questionnaire. Only Part
+information must be submitted in the format provided in [Attachment E -
+Corporate Experience Statement/Past Performance Questionnaire](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20E%20-%20Corporate%20Experience%20Statement%20and%20Past%20Performance%20Questionnaire.docx?raw=true). Only Part
 1, Part 2, and Part 3 of Attachment E shall be completed by the Quoter.
 The Quoter shall ensure that all of the points of contact (POCs) are
 aware that they may be contacted by the Government to respond to Part 4
@@ -638,10 +638,10 @@ implementation and strategies deployed to overcome those challenges.
 
 #### Phase 2, Part A - Technical Approach
 
-The Quoter shall complete in its entirety, **Attachment A - Business
-Capabilities and Data Standards, Attachment B – Technical Capabilities,
-Attachment C - FedRamp Self-Assessment and Attachment F – VPAT Self
-Assessment.** The Quoter shall provide a response for each question
+The Quoter shall complete in its entirety, **[Attachment A - Business
+Capabilities and Data Standards](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20A%20-%20Business%20Capabilities%20and%20Data%20Standards.xlsx?raw=true), [Attachment B – Technical Capabilities](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20B%20-%20Technical%20Capabilities.xlsx?raw=true),
+[Attachment C - FedRamp Self-Assessment](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20C%20-%20FedRAMP-Self-Assessment-High-RAR-Template-v1.0-2.docx?raw=true) and [Attachment F – VPAT Self
+Assessment](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20F%20-%20VPAT%20Assessment.doc?raw=true).** The Quoter shall provide a response for each question
 based on the instructions within each attachment. Each response in
 Attachment A, Attachment B, and Attachment C, will be evaluated to
 assess the readiness of the SaaS solution to meet the Government
@@ -746,7 +746,7 @@ assigned roles (e.g., current payroll providers and agencies obtaining
 WSLM systems.) The Quoter shall also include the Help Desk support for
 technical and configuration support and User Support and Management.
 
-The Quoter shall also review the Attachment D - RACI chart. In the
+The Quoter shall also review the [Attachment D - RACI](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20D%20-%20RACI%20Chart.xlsx?raw=true) chart. In the
 column titled “Quoter’s Response”, the Quoter should respond in the
 "Capable of Fulfilling" and “Quoter’s comments” tabs, indicating whether
 they can fulfill the role identified in the "Technical Provider" column.
@@ -791,12 +791,12 @@ forth within this RFQ.
 
 Each demonstration and oral presentation will consist of the following
 timeline:
-|                      |                                                       | 
-|----------------------|-------------------------------------------------------| 
-| SaaS Solution        | Solution Capability Demonstration & Oral Presentation | 
-| WSLM                 | 2 hours plus 20 minutes for Questions                 | 
-| Payroll              | 2 hours plus 20 minutes for Questions                 | 
-| Both: WSLM & Payroll | 4 hours plus 40 minutes for Questions                 | 
+|                      |                                                       |
+|----------------------|-------------------------------------------------------|
+| SaaS Solution        | Solution Capability Demonstration & Oral Presentation |
+| WSLM                 | 2 hours plus 20 minutes for Questions                 |
+| Payroll              | 2 hours plus 20 minutes for Questions                 |
+| Both: WSLM & Payroll | 4 hours plus 40 minutes for Questions                 |
 
 **NOTE** – If Quoter is demonstrating both WSLM and Payroll a 10 minute
 break will be taken between demonstrations.
@@ -831,7 +831,7 @@ demonstration case scenarios may consist of the following elements:
 
 All prices proposed in response to this RFQ shall be in accordance with
 the instructions in this section. Quoters shall complete in its entirety
-all of the pricing tables in **Attachment H - Pricing **
+all of the pricing tables in **[Attachment H - Pricing](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20H%20-%20BPA%20Pricing%20Schedule.xlsx?raw=true) **
 
 ##### Evaluation Criteria
 
@@ -848,12 +848,12 @@ that provide the best value.
 Phase
 
 A price evaluation will only be evaluated for Quoters with a Technical
-Approach (includes Attachment A - Business Capabilities and Data
-Standards, Attachment B - Technical Capabilities, Attachment C - FEDRamp
-Self-Assessment Moderate/High, and Attachment F - VPAT Self Assessment,
+Approach (includes [Attachment A - Business Capabilities and Data
+Standards](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20A%20-%20Business%20Capabilities%20and%20Data%20Standards.xlsx?raw=true), [Attachment B - Technical Capabilities](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20B%20-%20Technical%20Capabilities.xlsx?raw=true), [Attachment C - FEDRamp
+Self-Assessment Moderate/High](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20C%20-%20FedRAMP-Self-Assessment-High-RAR-Template-v1.0-2.docx?raw=true), and [Attachment F - VPAT Self Assessment](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20F%20-%20VPAT%20Assessment.doc?raw=true),
 Program Management Approach, Software Maintenance, Implementation
-Support, Past Performance and Project Experience (Attachment E -
-Corporate Experience and Past Performance Reference Sheet) receiving the
+Support, Past Performance and Project Experience ([Attachment E -
+Corporate Experience and Past Performance Reference Sheet](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20E%20-%20Corporate%20Experience%20Statement%20and%20Past%20Performance%20Questionnaire.docx?raw=true)) receiving the
 appropriate ratings levels in each factor as specified above and have
 conducted a Solution Capability Demonstration and Oral Presentation. The
 Government intends to make an award without discussions, but reserves
@@ -878,10 +878,10 @@ listed in descending order of importance:
 
 -   Phase 2: Technical Approach
 
-    -   Phase 2, Part A –Technical Approach (includes Attachment A -
-        Business Capabilities and Data Standards, Attachment B -
-        Technical Capabilities, Attachment C - FEDRamp Self-Assessment
-        Moderate/High), and Attachment F - VPAT)
+    -   Phase 2, Part A –Technical Approach (includes [Attachment A -
+        Business Capabilities and Data Standards](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20A%20-%20Business%20Capabilities%20and%20Data%20Standards.xlsx?raw=true), [Attachment B -
+        Technical Capabilities](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20B%20-%20Technical%20Capabilities.xlsx?raw=true), [Attachment C - FEDRamp Self-Assessment
+        Moderate/High)](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20C%20-%20FedRAMP-Self-Assessment-High-RAR-Template-v1.0-2.docx?raw=true), and [Attachment F - VPAT](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20F%20-%20VPAT%20Assessment.doc?raw=true))
 
     -   Phase 2, Part B – Program Management Approach
 
@@ -889,8 +889,8 @@ listed in descending order of importance:
 
     -   Phase 2, Part D – Implementation Support
 
-    -   Phase 2, Part E - Past Performance (Attachment E - Corporate
-        Experience and Past Performance Reference Sheet)
+    -   Phase 2, Part E - Past Performance ([Attachment E - Corporate
+        Experience and Past Performance Reference Sheet](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20E%20-%20Corporate%20Experience%20Statement%20and%20Past%20Performance%20Questionnaire.docx?raw=true))
 
     -   Phase 2, Part G - Small Business Subcontracting Plan
         (if applicable)
@@ -913,10 +913,10 @@ Experience will be evaluated in Phase 2.
 
 ##### Phase 2: Outstanding/Good/Satisfactory/Unacceptable
 
--   Phase 2, Part A –Technical Approach (includes Attachment A -
-    Business Capabilities and Data Standards, Attachment B - Technical
-    Capabilities, Attachment C - FEDRamp Self-Assessment Moderate/High),
-    and Attachment F - VPAT Self Assessment)
+-   Phase 2, Part A –Technical Approach (includes [Attachment A -
+    Business Capabilities and Data Standards](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20A%20-%20Business%20Capabilities%20and%20Data%20Standards.xlsx?raw=true), [Attachment B - Technical
+    Capabilities](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20B%20-%20Technical%20Capabilities.xlsx?raw=true), [Attachment C - FEDRamp Self-Assessment Moderate/High](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20C%20-%20FedRAMP-Self-Assessment-High-RAR-Template-v1.0-2.docx?raw=true)),
+    and [Attachment F - VPAT Self Assessment](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20F%20-%20VPAT%20Assessment.doc?raw=true))
 
 -   Phase 2, Part B – Program Management Approach
 
@@ -924,8 +924,8 @@ Experience will be evaluated in Phase 2.
 
 -   Phase 2, Part D – Implementation Support
 
--   Phase 2, Part E - Past Performance (Attachment E - Corporate
-    Experience and Past Performance Reference Sheet)
+-   Phase 2, Part E - Past Performance ([Attachment E - Corporate
+    Experience and Past Performance Reference Sheet](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/blob/master/Solicitation%20Documents/Draft%20Attachment%20E%20-%20Corporate%20Experience%20Statement%20and%20Past%20Performance%20Questionnaire.docx?raw=true))
 
 -   Phase 2, Part G - Small Business Subcontracting Plan (if applicable)
 
