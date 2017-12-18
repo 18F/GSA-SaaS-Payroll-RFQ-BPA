@@ -1,8 +1,8 @@
-# New Pay SaaS Solution Procurement
+# Draft NewPay Software as a Service (SaaS)
 
 ## Instructions
 
-The documents in this repository are posted to GSA eBuy under RFQXXXXX.
+The documents in this repository are posted to GSA eBuy under RFQ1256365.
 The documents in e-Buy should always be considered the documents of
 record. Please submit any questions as *GitHub issues* in this
 repository by the date specified in eBuy for this Request for Quote
@@ -10,6 +10,9 @@ repository by the date specified in eBuy for this Request for Quote
 responding to questions submitted via this *Issue Template*. We cannot
 commit to responding to comments or questions submitted in other
 manners.
+
+**RFQ Issue Date**: 12/15/2017 02:35:51 PM EST
+**RFQ Close Date**: 01/22/2018 09:00:00 AM EST
 
 **Questions and Comments to the draft Request for Quote are due at the
 date posted in the GSA eBuy**
