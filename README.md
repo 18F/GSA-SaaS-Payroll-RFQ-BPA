@@ -1,6 +1,5 @@
-*GITHUB Instructions*
 
-**Instructions**
+## Instructions
 
 The documents in this repository are posted to GSA eBuy under RFQXXXXX.
 The documents in e-Buy should always be considered the documents of
@@ -14,7 +13,7 @@ manners.
 **Questions and Comments to the draft Request for Quote are due at the
 date posted in the GSA eBuy**
 
-**Background**
+## Background
 
 Unified Shared Services Management (USSM) within the GSA Office of
 Governmentwide Policy (OGP), in partnership with the Information
@@ -27,7 +26,7 @@ fiscal) on core mission priorities, which will reduce costs,
 significantly improve security posture, increase user experience and
 service, and better manage budgets.
 
-**What we're hoping to end up with**
+## What we're hoping to end up with
 
 USSM is requesting industry feedback on the draft RFQ. Some areas for
 focus are:
@@ -44,7 +43,7 @@ focus are:
 -   What activities should the Federal Government undertake to manage
     costs - both for implementation and ongoing subscription fees?
 
-**How to respond**
+## How to respond
 
 Comments and Responses related to the draft RFQ can be directed thru
 *GitHub issues* or GSA eBuy, Federal Business Opportunities
@@ -54,7 +53,7 @@ GSA Interact, go to the Interact web page,
 [*https://interact.gsa.gov/*](https://interact.gsa.gov/) and join the
 “Newpay Initiative” group.
 
-**Response Submission**
+## Response Submission
 
 Responders to this draft RFQ must provide the following information as
 part of the draft RFQ feedback:
@@ -68,7 +67,7 @@ part of the draft RFQ feedback:
 
 -   IT Schedule 70 contract number.
 
-**Contents**
+## Contents
 
 Link will be included for the RFQ and the associated documents.
 
