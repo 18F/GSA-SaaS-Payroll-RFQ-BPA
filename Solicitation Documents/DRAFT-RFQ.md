@@ -513,70 +513,39 @@ evaluated. Any charts/graphics/tables embedded in the quote will count
 toward the page limitations. The quotes shall be submitted as follows:
 
 #### Table 2
+|                |                                                   |                                                                                                                                     |                                 |                 | 
+|----------------|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----------------| 
+| Volume         | Phase                                             | Part/Tab Title                                                                                                                      | Evaluation Rating               | Page Limit      | 
+| Volume 1A      |                                                   | Cover Letter                                                                                                                        | Not Rated                       | 1 page          | 
+| Volume 1A      | Phase 1                                           | Part A - Solution Conformance (A1 - A4 above)                                                                                       | Acceptable/ Unacceptable        | Maximum 3 pages | 
+| Volume 1A      | Phase 1                                           | "Part B - Corporate Experience Attachment E: Past Performance Questionnaire"                                                        | "Acceptable/                    |                 | 
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
+| Volume 1B      | Phase 2                                           | Part A – Attachment A: Business Capabilities and Data Standards                                                                     | "Outstanding/Good/Satisfactory/ |                 | 
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
+| Volume 1B      | Phase 2                                           | Part A – Attachment B: Technical Capabilities                                                                                       | "Outstanding/Good/Satisfactory/ |                 | 
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
+| Volume 1B      | Phase 2                                           | Part A – Attachment C: FedRAMP Self-Assessment (RAR)                                                                                | "Outstanding/Good/Satisfactory/ |                 | 
+|  Unacceptable" | RAR - No Limit                                    |                                                                                                                                     |                                 |                 | 
+| Volume 1B      | Phase 2                                           | Part A – Security                                                                                                                   | "Outstanding/Good/Satisfactory/ |                 | 
+|  Unacceptable" | Maximum 2 pages                                   |                                                                                                                                     |                                 |                 | 
+| Volume 1B      | Phase 2                                           | Part A – Attachment F: VPAT Self Assessment                                                                                         | "Outstanding/Good/Satisfactory/ |                 | 
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
+| Volume 1B      | Phase 2                                           | Part B – Program Management Approach                                                                                                | "Outstanding/Good/Satisfactory/ |                 | 
+|  Unacceptable" | Maximum 6 pages                                   |                                                                                                                                     |                                 |                 | 
+| Volume 1B      | Phase 2                                           | "Part C – Software Maintenance – Continuous Improvement, Change Requests, and Defect Resolution"                                    | "Outstanding/Good/Satisfactory/ |                 | 
+|  Unacceptable" | Maximum 3 page                                    |                                                                                                                                     |                                 |                 | 
+| Volume 1B      | Phase 2                                           | "Part D – Implementation – Implementation Support, Configuration Support, and Data Integration and Migration, and Training Support" | "Outstanding/Good/Satisfactory/ |                 | 
+|  Unacceptable" | Maximum 13 page                                   |                                                                                                                                     |                                 |                 | 
+| Volume 1B      | Phase 2                                           | Part D – Implementation – Attachment D - RACI Matrix                                                                                | "Outstanding/Good/Satisfactory/ |                 | 
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
+| Volume 1B      | Phase 2                                           | Part E – Attachment E – Past Performance Questionnaire                                                                              | "Outstanding/Good/Satisfactory/ |                 | 
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
+| Volume 1B      | Phase 2                                           | "Part F - Attachment G - Small Business Subcontracting Plan (if applicable)"                                                        | "Outstanding/Good/Satisfactory  |                 | 
+|  Unacceptable" | No Limit                                          |                                                                                                                                     |                                 |                 | 
+| None           | Phase 3                                           | Solution Capability Demonstration and Oral Presentation                                                                             | "Outstanding/Good/Satisfactory  |                 | 
+|  Unacceptable" | Maximum 2 and 1/2 hours per WSLM/Payroll solution |                                                                                                                                     |                                 |                 | 
+| Volume 3       | Phase 3                                           | "Part 9 – Pricing Attachment H"                                                                                                     | Not Rated                       | No Limit        | 
 
-  ---------------- ----------- ----------------------------------------------------------------------------------------------------------------------------------- -------------------------------- ---------------------------------------------------
-  **Volume**       **Phase**   **Part/Tab Title**                                                                                                                  **Evaluation Rating**            **Page Limit**
-
-  **Volume 1A **               Cover Letter                                                                                                                        Not Rated                        1 page
-
-  **Volume 1A**    Phase 1     Part A - Solution Conformance (A1 - A4 above)                                                                                       Acceptable/ Unacceptable         Maximum 3 pages
-
-  **Volume 1A**    Phase 1     Part B - Corporate Experience                                                                                                       Acceptable/                      No Limit
-
-                               Attachment E: Past Performance Questionnaire                                                                                        Unacceptable                     
-
-  **Volume 1B**    Phase 2     Part A – Attachment A: Business Capabilities and Data Standards                                                                     Outstanding/Good/Satisfactory/   No Limit
-
-                                                                                                                                                                   Unacceptable                     
-
-  **Volume 1B**    Phase 2     Part A – Attachment B: Technical Capabilities                                                                                       Outstanding/Good/Satisfactory/   No Limit
-
-                                                                                                                                                                   Unacceptable                     
-
-  **Volume 1B**    Phase 2     Part A – Attachment C: FedRAMP Self-Assessment (RAR)                                                                                Outstanding/Good/Satisfactory/   RAR - No Limit
-
-                                                                                                                                                                   Unacceptable                     
-
-  **Volume 1B**    Phase 2     Part A – Security                                                                                                                   Outstanding/Good/Satisfactory/   Maximum 2 pages
-
-                                                                                                                                                                   Unacceptable                     
-
-  **Volume 1B**    Phase 2     Part A – Attachment F: VPAT Self Assessment                                                                                         Outstanding/Good/Satisfactory/   No Limit
-
-                                                                                                                                                                   Unacceptable                     
-
-  **Volume 1B**    Phase 2     Part B – Program Management Approach                                                                                                Outstanding/Good/Satisfactory/   Maximum 6 pages
-
-                                                                                                                                                                   Unacceptable                     
-
-  **Volume 1B**    Phase 2     Part C – Software Maintenance – Continuous Improvement, Change Requests, and Defect Resolution                                      Outstanding/Good/Satisfactory/   Maximum 3 page
-
-                                                                                                                                                                   Unacceptable                     
-
-  **Volume 1B**    Phase 2     Part D – Implementation – Implementation Support, Configuration Support, and Data Integration and Migration, and Training Support   Outstanding/Good/Satisfactory/   Maximum 13 page
-
-                                                                                                                                                                   Unacceptable                     
-
-  **Volume 1B**    Phase 2     Part D – Implementation – Attachment D - RACI Matrix                                                                                Outstanding/Good/Satisfactory/   No Limit
-
-                                                                                                                                                                   Unacceptable                     
-
-  **Volume 1B**    Phase 2     Part E – Attachment E – Past Performance Questionnaire                                                                              Outstanding/Good/Satisfactory/   No Limit
-
-                                                                                                                                                                   Unacceptable                     
-
-  **Volume 1B**    Phase 2     Part F - Attachment G - Small Business Subcontracting Plan                                                                          Outstanding/Good/Satisfactory    No Limit
-
-                               (if applicable)                                                                                                                     Unacceptable                     
-
-  **None **        Phase 3     Solution Capability Demonstration and Oral Presentation                                                                             Outstanding/Good/Satisfactory    Maximum 2 and 1/2 hours per WSLM/Payroll solution
-
-                                                                                                                                                                   Unacceptable                     
-
-  **Volume 3**     Phase 3     Part 9 – Pricing                                                                                                                    Not Rated                        No Limit
-
-                               Attachment H                                                                                                                                                         
-  ---------------- ----------- ----------------------------------------------------------------------------------------------------------------------------------- -------------------------------- ---------------------------------------------------
 
 ### Submission Process
 
