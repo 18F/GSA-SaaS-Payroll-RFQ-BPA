@@ -7,7 +7,7 @@ The documents in e-Buy should always be considered the documents of
 record. Please submit any questions as *GitHub issues* in this
 repository by the date specified in eBuy for this Request for Quote
 (RFQ). Only the Contracting Officer (CO), Raymond McCollum will be
-responding to questions submitted via this *Issue Template*. We cannot
+responding to questions submitted via this *[Issue Template](https://github.com/18F/GSA-SaaS-Payroll-RFQ-BPA/tree/master)*. We cannot
 commit to responding to comments or questions submitted in other
 manners.
 
